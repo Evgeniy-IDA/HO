@@ -1,0 +1,70 @@
+{
+  "_data": [
+    {
+      "_id": 0,
+      "_name": "level 1",
+      "_imageUrl": "",
+      "_positionCollectionId": 0,
+      "_levelItemsData": {
+        "_levelItems": [
+          {
+            "_count": 4,
+            "_positionsGroupId": 0,
+            "_itemData": {
+              "_id": 0,
+              "_spriteId": "",
+              "_spriteUrl": ""
+            }
+          },
+          {
+            "_count": 5,
+            "_positionsGroupId": 1,
+            "_itemData": {
+              "_id": 1,
+              "_spriteId": "",
+              "_spriteUrl": ""
+            }
+          }
+        ]
+      },
+      "_levelItemBoxesData": {
+        "_levelItemBoxes": [
+          {
+            "_itemBoxData": {
+              "_id": 0,
+              "_itemsPerUse": 1,
+              "_useCount": 0,
+              "_spriteId": "",
+              "_spriteUrl": "",
+              "_itemData": {
+                "_id": 2,
+                "_spriteId": "",
+                "_spriteUrl": ""
+              },
+              "_itemsPositionGroupId": 3
+            },
+            "_positionGroupId": 2,
+            "_count": 1
+          },
+          {
+            "_itemBoxData": {
+              "_id": 1,
+              "_itemsPerUse": 1,
+              "_useCount": 2,
+              "_spriteId": "",
+              "_spriteUrl": "",
+              "_itemData": {
+                "_id": 3,
+                "_spriteId": "",
+                "_spriteUrl": ""
+              },
+              "_itemsPositionGroupId": 4
+            },
+            "_positionGroupId": 2,
+            "_count": 1
+          }
+        ]
+      }
+    }
+  ]
+}
