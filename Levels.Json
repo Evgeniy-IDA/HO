@@ -3,6 +3,7 @@
     {
       "_id": 0,
       "_name": "level 1",
+      "_imageId": "",
       "_imageUrl": "",
       "_positionCollectionId": 0,
       "_levelItemsData": {
