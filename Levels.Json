@@ -14,7 +14,7 @@
             "_itemData": {
               "_id": 0,
               "_spriteId": "Props_1",
-              "_spriteUrl": "https://github.com/Evgeniy-IDA/HO/blob/main/Images/Level_1/Props/Props_1.png"
+              "_spriteUrl": "https://github.com/Evgeniy-IDA/HO/blob/f90eb14e235f321bda6e41dd0edb30e02ae0d781/Images/Level_1/Props/Props_1.png"
             }
           },
           {
@@ -23,7 +23,7 @@
             "_itemData": {
               "_id": 1,
               "_spriteId": "Props_1",
-              "_spriteUrl": "https://github.com/Evgeniy-IDA/HO/blob/main/Images/Level_1/Props/Props_1.png"
+              "_spriteUrl": "https://github.com/Evgeniy-IDA/HO/blob/f90eb14e235f321bda6e41dd0edb30e02ae0d781/Images/Level_1/Props/Props_1.png"
             }
           }
         ]
@@ -36,11 +36,11 @@
               "_itemsPerUse": 1,
               "_useCount": 2,
               "_spriteId": "ItemBox",
-              "_spriteUrl": "https://github.com/Evgeniy-IDA/HO/blob/main/Images/Level_1/Props/ItemBox.png",
+              "_spriteUrl": "https://github.com/Evgeniy-IDA/HO/blob/a714a73dd20c6ff8e91743692a2d4e65ad2c5857/Images/Level_1/Props/ItemBox.png",
               "_itemData": {
                 "_id": 2,
                 "_spriteId": "Props_1",
-                "_spriteUrl": "https://github.com/Evgeniy-IDA/HO/blob/main/Images/Level_1/Props/Props_1.png"
+                "_spriteUrl": "https://github.com/Evgeniy-IDA/HO/blob/f90eb14e235f321bda6e41dd0edb30e02ae0d781/Images/Level_1/Props/Props_1.png"
               },
               "_itemsPositionGroupId": 3
             },
@@ -53,11 +53,11 @@
               "_itemsPerUse": 1,
               "_useCount": 2,
               "_spriteId": "ItemBox",
-              "_spriteUrl": "https://github.com/Evgeniy-IDA/HO/blob/main/Images/Level_1/Props/ItemBox.png",
+              "_spriteUrl": "https://github.com/Evgeniy-IDA/HO/blob/a714a73dd20c6ff8e91743692a2d4e65ad2c5857/Images/Level_1/Props/ItemBox.png",
               "_itemData": {
                 "_id": 3,
                 "_spriteId": "Props_1",
-                "_spriteUrl": "https://github.com/Evgeniy-IDA/HO/blob/main/Images/Level_1/Props/Props_1.png"
+                "_spriteUrl": "https://github.com/Evgeniy-IDA/HO/blob/f90eb14e235f321bda6e41dd0edb30e02ae0d781/Images/Level_1/Props/Props_1.png"
               },
               "_itemsPositionGroupId": 4
             },
